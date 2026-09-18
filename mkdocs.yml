@@ -1,8 +1,8 @@
 site_name: FastAPI do Zero
 site_url: https://fastapidozero.dunossauro.com/
 docs_dir: aulas
-repo_url: https://github.com/dunossauro/fastapi-do-zero
-repo_name: dunossauro/fastapi-do-zero
+repo_url: https://github.com/rmatuk/fastapi-do-zero
+repo_name: rmatuk/fastapi-do-zero
 edit_uri: tree/main/aulas
 
 theme:
